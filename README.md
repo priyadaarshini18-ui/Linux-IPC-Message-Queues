@@ -96,8 +96,10 @@ Execute the C Program for the desired output.
 
 
 ## OUTPUT
+<img width="722" height="255" alt="530307630-a545fadb-e14c-4489-8439-35b47e7bb4ea" src="https://github.com/user-attachments/assets/582d852c-8abc-43fa-b90b-a6f2b4dda849" />
 
-<img width="722" height="255" alt="530307630-a545fadb-e14c-4489-8439-35b47e7bb4ea" src="https://github.com/user-attachments/assets/e74fc145-2246-4aea-b388-4e5f6480be74" />
+<img width="722" height="255" alt="530307710-5a845f35-e649-4043-9345-0d0dfe8f5be8" src="https://github.com/user-attachments/assets/1c37928b-4214-43be-8fdf-bcf959b760e0" />
+
 
 
 
